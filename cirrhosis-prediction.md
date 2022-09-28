@@ -1,4 +1,4 @@
-Projeto DSA: Previsão do Consumo Médio de Carros Elétricos
+Projeto: Previsão do Consumo Médio de Carros Elétricos
 ================
 Michel Ribeiro
 
